@@ -1,0 +1,34 @@
+html {
+    background-color:  rgba(255, 139, 124, 0.7);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btht {
+    border: transparent;
+    background-color: transparent;
+}
+
+.imght {
+    max-width: 80px;
+}
+
+.imght:hover {
+    transform: scale(200px);
+}
+

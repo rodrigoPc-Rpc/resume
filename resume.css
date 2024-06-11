@@ -1,0 +1,15 @@
+html {
+    background-color: rgba(255, 139, 124, 0.7);
+    width: 100%;
+    height: 100%;
+}
+.carta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textao {
+    text-align: center;
+    font-size: 25px;
+}
